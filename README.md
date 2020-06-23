@@ -131,4 +131,11 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 # 许可证
 本项目采用 MIT 许可证。有关更多信息，请参见 LICENSE 文件。
 
+---
+
+**关于详细的讲解，请看我的视频演示：**
+<br />(无声 / 字幕)
+
+[在B站的演示视频合集](https://space.bilibili.com/14824534/channel/detail?cid=135785)
+
 </details>
