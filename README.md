@@ -38,9 +38,13 @@ The name of the project is **SLOS-GIMPainter**
 # Installation
 - Edit -> Preferences ->(Folders -> Brushes), (Folders -> Dynamics), (Folders -> Tool Presets)
 - Click the [Add New Folder] button to open the corresponding directories in the SLOS-GIMPainter folder respectively:
- - □ /home/USER/SLOS-GIMPainter/brushes
- - □ /home/USER/SLOS-GIMPainter/dynamics
- - □ /home/USER/SLOS-GIMPainter/tool-presets
+
+```
+□ /home/USER/SLOS-GIMPainter/brushes
+□ /home/USER/SLOS-GIMPainter/dynamics
+□ /home/USER/SLOS-GIMPainter/tool-presets
+```
+
 - Restart GIMP.
 
 **NOTE:** Uncheck Checkbox to avoid changing the default setting of SLOS-GIMPainter.
@@ -58,6 +62,12 @@ The Project is under an MIT License. See the LICENSE file for more information.
 ---
 
 **For a detailed explanation, please see my Video Demo:**
+<br />(Silent / Subtitles)
+
+- Install SLOS-GIMPainter and use demos in GIMP, [Here](https://youtu.be/RocoFDBGqE8).
+- Replace the brush shape of SLOS-GIMPainter and Make Texture(+GMIC) in GIMP, [Here](https://youtu.be/G4Qt8RiLn8k).
+- How to use SLOS-GIMPainter 060 Effect Lines Brush in GIMP, [Here](https://youtu.be/K6lqyK-rDLU).
+- Use SLOS-GIMPainter to Draw Radial Lines in GIMP, [Here](https://youtu.be/lC3awNhu76c).
 
 ---
 
@@ -100,9 +110,13 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 # 安装方法
 - 编辑 -> 首选项 ->(文件夹 -> 笔刷)、(文件夹 -> 动态)、(文件夹 -> 工具预设)
 - 点击 [添加新文件夹] 按钮，分别打开 SLOS-GIMPainter 文件夹中对应的目录：
- - □ /home/USER/SLOS-GIMPainter/brushes
- - □ /home/USER/SLOS-GIMPainter/dynamics
- - □ /home/USER/SLOS-GIMPainter/tool-presets
+
+```
+□ /home/USER/SLOS-GIMPainter/brushes
+□ /home/USER/SLOS-GIMPainter/dynamics
+□ /home/USER/SLOS-GIMPainter/tool-presets
+```
+
 - 重启 GIMP
 
 **注意：**不要勾选前面的复选框，避免更改 SLOS-GIMPainter 的默认设置。
@@ -116,9 +130,5 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 
 # 许可证
 本项目采用 MIT 许可证。有关更多信息，请参见 LICENSE 文件。
-
----
-
-**关于详细的讲解，请看我的视频演示：**
 
 </details>
