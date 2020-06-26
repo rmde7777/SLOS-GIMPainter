@@ -69,6 +69,8 @@ The Project is under an MIT License. See the LICENSE file for more information.
 - How to use SLOS-GIMPainter 060 Effect Lines Brush in GIMP, [Here](https://youtu.be/K6lqyK-rDLU).
 - Use SLOS-GIMPainter to Draw Radial Lines in GIMP, [Here](https://youtu.be/lC3awNhu76c).
 
+For Line Art, please check the text description: [Here](https://github.com/SenlinOS/databox/blob/master/For-Line-Art_SLOS-GIMPainter.txt).
+
 ---
 
 <details>
@@ -137,5 +139,7 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 <br />(无声 / 字幕)
 
 [在B站的演示视频合集](https://space.bilibili.com/14824534/channel/detail?cid=135785)
+
+对于艺术线条，请检查文本描述：[这里](https://github.com/SenlinOS/databox/blob/master/For-Line-Art_SLOS-GIMPainter.txt).
 
 </details>
