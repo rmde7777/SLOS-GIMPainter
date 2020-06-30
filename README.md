@@ -36,14 +36,17 @@ The name of the project is **SLOS-GIMPainter**
 - SVG files (Paths) included with the project can be used with brushes to create effect lines.
 
 # Installation
+
+How to download: Click the green **Clone** button and click **Download ZIP**.
+
 - Edit -> Preferences ->(Folders -> Brushes), (Folders -> Dynamics), (Folders -> Tool Presets)
 - Click the [Add New Folder] button to open the corresponding directories in the SLOS-GIMPainter folder respectively:
 
-```
-□ /home/USER/SLOS-GIMPainter/brushes
-□ /home/USER/SLOS-GIMPainter/dynamics
-□ /home/USER/SLOS-GIMPainter/tool-presets
-```
+	Example location: `□ /.../SLOS-GIMPainter/brushes`
+
+	Example location: `□ /.../SLOS-GIMPainter/dynamics`
+
+	Example location: `□ /.../SLOS-GIMPainter/tool-presets`
 
 - Restart GIMP.
 
@@ -110,14 +113,17 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 - 项目中包含的SVG文件(路径)可以与画笔一起使用来创建效果线。
 
 # 安装方法
+
+如何下载：点击绿色的 **Clone** 按钮，然后点击 **Download ZIP**。
+
 - 编辑 -> 首选项 ->(文件夹 -> 笔刷)、(文件夹 -> 动态)、(文件夹 -> 工具预设)
 - 点击 [添加新文件夹] 按钮，分别打开 SLOS-GIMPainter 文件夹中对应的目录：
 
-```
-□ /home/USER/SLOS-GIMPainter/brushes
-□ /home/USER/SLOS-GIMPainter/dynamics
-□ /home/USER/SLOS-GIMPainter/tool-presets
-```
+	示例位置： `□ /.../SLOS-GIMPainter/brushes`
+
+	示例位置： `□ /.../SLOS-GIMPainter/dynamics`
+
+	示例位置： `□ /.../SLOS-GIMPainter/tool-presets`
 
 - 重启 GIMP
 
