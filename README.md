@@ -52,9 +52,8 @@ The name of the project is **SLOS-GIMPainter**
 
 **NOTE:** Uncheck Checkbox to avoid changing the default setting of SLOS-GIMPainter.
 
-	`1. I didn't install SLOS-GIMPainter by copying the corresponding directory to the GIMP-Profile-Folders. Because the Checkbox cannot be canceled. (maybe you will accidentally modify the default parameters), (And GIMP-Profile-Folders is not easy to find in different systems.)`
-
-	`2. My suggested method is to manually open the corresponding directory in the project folder by using the (Edit -> Preferences -> Folders...) of GIMP Menu.`
+- I didn't install SLOS-GIMPainter by copying the corresponding directory to the GIMP-Profile-Folders. Because the Checkbox cannot be canceled. (maybe you will accidentally modify the default parameters), (And GIMP-Profile-Folders is not easy to find in different systems.)
+- My suggested method is to manually open the corresponding directory in the project folder by using the (Edit -> Preferences -> Folders...) of GIMP Menu.
 
 # Show Dialog
 Open the Window menu: Dockable Dialogs -> Tool Presets, and you can see SLOS-GIMPainter.
