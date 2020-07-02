@@ -67,6 +67,8 @@ The Project is under an MIT License. See the LICENSE file for more information.
 
 ---
 
+![Vimg](https://raw.githubusercontent.com/SenlinOS/databox/master/video-demo-img.jpg)
+
 **For a detailed explanation, please see my Video Demo:**
 <br />(Silent / Subtitles)
 
