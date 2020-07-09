@@ -52,7 +52,7 @@ The name of the project is **SLOS-GIMPainter**
 
 **NOTE:** Uncheck Checkbox to avoid changing the default setting of SLOS-GIMPainter.
 
-- I didn't install SLOS-GIMPainter by copying the corresponding directory to the GIMP-Profile-Folders. Because the Checkbox cannot be canceled. (maybe you will accidentally modify the default parameters), (And GIMP-Profile-Folders is not easy to find in different systems.)
+- I didn't install SLOS-GIMPainter by copying the corresponding directory to the GIMP-Profile-Folders. Because the Checkbox cannot be canceled. (maybe you will accidentally modify the default parameters)
 - My suggested method is to manually open the corresponding directory in the Project Folder by using the (Edit -> Preferences -> Folders...) of GIMP Menu.
 
 # Show Dialog
@@ -134,7 +134,7 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 
 **注意：** 不要勾选前面的复选框，避免更改 SLOS-GIMPainter 的默认设置。
 
-- 我没有通过将相应目录复制到GIMP配置文件文件夹来安装SLOS-GIMPainter。因为复选框不能取消。(也许你会不小心修改默认参数)，(而且在不同的系统中很难找到配置文件文件夹)
+- 我没有通过将相应目录复制到GIMP配置文件文件夹来安装SLOS-GIMPainter。因为复选框不能取消。(也许你会不小心修改默认参数)
 - 我建议的方法是使用GIMP的菜单（编辑 -> 首选项 -> 文件夹...）手动打开这个项目文件夹中的相应目录。
 
 # 显示对话框
