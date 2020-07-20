@@ -37,7 +37,7 @@ The name of the project is **SLOS-GIMPainter**
 
 # Installation
 
-**How to download:** Click the green **Clone** button and click **Download ZIP**.
+**How to download:** Click the green **Code** button and click **Download ZIP**.
 
 - Edit -> Preferences ->(Folders -> Brushes), (Folders -> Dynamics), (Folders -> Tool Presets)
 - Click the [Add New Folder] button to open the corresponding directories in the SLOS-GIMPainter folder respectively:
@@ -119,7 +119,7 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 
 # 安装方法
 
-**如何下载：** 点击绿色的 **Clone** 按钮，然后点击 **Download ZIP**。
+**如何下载：** 点击绿色的 **Code** 按钮，然后点击 **Download ZIP**。
 
 - 编辑 -> 首选项 ->(文件夹 -> 笔刷)、(文件夹 -> 动态)、(文件夹 -> 工具预设)
 - 点击 [添加新文件夹] 按钮，分别打开 SLOS-GIMPainter 文件夹中对应的目录：
