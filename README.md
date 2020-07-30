@@ -22,10 +22,7 @@ GIMP 2.10.20 fixed Bugs, and I also added presets and improvements to SLOS-GIMPa
 # Project Name
 The project name = `My Name Abbreviation` + `GIMP` + `Painter`
 
-- If the word `Brushes` is used, it will be the same as the Brushes (brush shape) name in GIMP. This project may be misunderstood as a brush shape.
-- If the word `Presets` is used, the function of the project will not be clearly explained, and the Presets range is too large.
-
-So choose to use the word `Painter` to better explain the function of the project. GIMP is adjacent to the `P` in Painter, so the two `P` are merged.
+- The word `Painter` to better explain the function of the project. GIMP is adjacent to the `P` in Painter, so the two `P` are merged.
 
 The name of the project is **SLOS-GIMPainter**
 
@@ -104,10 +101,7 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 # 项目名称
 这个项目的名称 = `我的名字缩写` + `GIMP` + `Painter`
 
-- 如果使用 `Brushes` 这个词会与 GIMP 中的 Brushes (画笔形状) 名称重复，也许会被人误解为画笔形状。
-- 如果使用 `Presets` 这个词会没有说明清楚项目的功能，预设包括的范围太大。
-
-所以选择使用 **Painter** 这个词更能说明项目的功能，GIMP 与 Painter 中的 `p` 相邻，所以将这两个 `p` 合并，
+- **Painter** 这个词更能说明项目的功能，GIMP 与 Painter 中的 `p` 相邻，所以将这两个 `p` 合并，
 
 项目名称就是 **SLOS-GIMPainter**
 
