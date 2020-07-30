@@ -101,7 +101,7 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 # 项目名称
 这个项目的名称 = `我的名字缩写` + `GIMP` + `Painter`
 
-- **Painter** 这个词更能说明项目的功能，GIMP 与 Painter 中的 `p` 相邻，所以将这两个 `p` 合并，
+- **Painter** 这个词更能说明项目的功能，GIMP 与 Painter 中的 `p` 相邻，所以将这两个 `p` 合并。
 
 项目名称就是 **SLOS-GIMPainter**
 
